@@ -93,4 +93,3 @@ SPC-Deployment/
     *   Run `sudo rm -rf /var/lib/docker/tmp/*` to remove unused Docker temp files.
     *   Increase Jenkins worker disk space.
     *   Automate cleanup scripts to manage storage.
-    *  Everything start working fine.
